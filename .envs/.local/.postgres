@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=full_cycle_dev
+POSTGRES_USER=WzKMOAbLlVPiNKrSLTJBiLdVqKtAxoFu
+POSTGRES_PASSWORD=yW7owQh3IcsJtJGyh9jedAUTygBVpqX5JpwdOESUUQmSANFxVSj5ZtilSi86qWrs
